@@ -1,0 +1,9 @@
+
+streamlit
+pandas
+yfinance
+matplotlib
+seaborn
+numpy
+stocknews
+cohere
